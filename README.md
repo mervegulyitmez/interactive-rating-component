@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: ()
-- Live Site URL: ()
+- Solution URL: (https://github.com/mervegulyitmez/interactive-rating-component)
+- Live Site URL: (https://interactive-rating-component-coral-kappa.vercel.app)
 
 
 ### Built with
